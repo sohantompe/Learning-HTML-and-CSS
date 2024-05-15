@@ -1,0 +1,13 @@
+body {
+    background-image: url(IN-en-20240115-trifectadaily-perspective_alpha_website_small.jpg);
+    
+}
+div { 
+    background-color: rgb(55, 54, 54);
+    color: white;
+    text-align: center;
+
+    flex: 1000px;
+    
+    
+}

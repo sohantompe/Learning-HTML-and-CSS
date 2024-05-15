@@ -1,0 +1,8 @@
+table, th, td{
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(35, 193, 17);
+    
+}
+tr{
+    color: blue;
+}

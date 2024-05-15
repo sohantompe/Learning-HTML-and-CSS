@@ -1,0 +1,107 @@
+/* body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+} */
+.class1 {
+    display: inline;
+    background-color: rgb(251, 255, 0);
+    border-radius: 30px;
+    border:  dotted red 1px;
+}
+.class1 p {
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+    color: rgb(0, 136, 255);
+}
+
+.class1 h1 {
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+    color: rgb(0, 255, 255);
+}
+
+.class1 span {
+    display: flex;
+    justify-content: center;
+    padding-left: 10px ;
+    color: rgb(34, 255, 0);
+}
+
+
+
+.class2 {
+    display: inline;
+    width: 1000px;
+    background-color: rgb(59, 242, 248);
+    border-radius: 20px;
+    border: solid rgb(54, 92, 243);
+}
+.class2 p {
+    
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+    color: rgb(179, 0, 255);
+}
+
+.class2 h1 {
+    display: flex;
+    justify-content: center;
+   padding-left: 10px;
+    color: rgb(255, 0, 149);
+}
+
+.class2 span {
+    display: flex;
+    justify-content: center;
+    padding-left: 10px ;
+    color: rgb(49, 49, 148);
+}
+
+
+
+
+.class3 {
+    display: inline;
+    width: 1000px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border: solid rgb(0, 0, 0);
+}
+.class3 p {
+   
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.class3 h1 {
+    display: flex;
+    justify-content: center;
+   padding-left: 10px;
+    color: rgb(0, 255, 110);
+}
+
+.class3 span {
+    display: flex;
+    justify-content: center;
+    padding-left: 10px ;
+    color: rgb(0, 106, 255);
+}
+.madhuri{
+    background-color: aqua;
+    display: block;
+    height: 200px;
+}
+.madhuri2{
+    background-color: blueviolet;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}

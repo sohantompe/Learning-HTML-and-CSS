@@ -1,0 +1,19 @@
+body{
+    display: flex;
+}
+div{
+    border: 2px solid black;
+}
+
+@media screen and (max-width: 680px){
+  body{
+    display: flex;
+    flex-direction: column;
+  }  
+  div{
+    background-color: aqua;
+  }
+  .dOne{
+    background-color: blueviolet;
+  }
+}
